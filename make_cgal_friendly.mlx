@@ -1,0 +1,6 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+ <filter name="Split Vertexes Incident on Non Manifold Faces">
+  <Param type="RichFloat" value="0" name="VertDispRatio"/>
+ </filter>
+</FilterScript>
