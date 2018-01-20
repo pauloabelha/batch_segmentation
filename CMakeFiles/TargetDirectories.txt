@@ -1,0 +1,4 @@
+/home/paulo/batch_segmentation/CMakeFiles/edit_cache.dir
+/home/paulo/batch_segmentation/CMakeFiles/rebuild_cache.dir
+/home/paulo/batch_segmentation/CMakeFiles/remove_similar_segm.dir
+/home/paulo/batch_segmentation/CMakeFiles/segment_meshes.dir

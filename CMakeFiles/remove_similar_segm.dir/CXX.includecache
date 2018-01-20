@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulo/batch_segmentation/remove_similar_segm.cpp
+dirent.h
+-
+errno.h
+-
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/boost/graph/graph_traits_Polyhedron_3.h
+-
+CGAL/Polyhedron_items_with_id_3.h
+-
+CGAL/IO/Polyhedron_iostream.h
+-
+CGAL/mesh_segmentation.h
+-
+CGAL/Simple_cartesian.h
+-
+CGAL/Polyhedron_3.h
+-
+CGAL/property_map.h
+-
+iostream
+-
+fstream
+-
+string
+-
+bitset
+-
+string
+-
+vector
+-
+algorithm
+-
+
