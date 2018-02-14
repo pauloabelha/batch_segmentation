@@ -2,7 +2,7 @@
 Batch segmentation using CGAL Triangulated Surface Mesh Segmentation
 https://doc.cgal.org/latest/Surface_mesh_segmentation/index.html
 
-By Paulo Abelha
+By Paulo A. FErreira
 
 E-mail: p.a.ferreira@cs.bham.ac.uk
 
