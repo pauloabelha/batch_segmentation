@@ -4,8 +4,7 @@ https://doc.cgal.org/latest/Surface_mesh_segmentation/index.html
 
 By Paulo Abelha
 
-E-mail: p.abelha@abdn.ac.uk
-Website: pauloabelha.com
+E-mail: p.a.ferreira@cs.bham.ac.uk
 
 If using this repository in your own research, please e-mail me to cite my work (the paper to cite is yet to be published).
 
