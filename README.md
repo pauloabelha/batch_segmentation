@@ -16,9 +16,7 @@ https://doc.cgal.org/latest/Surface_mesh_segmentation/index.html
 
 By Paulo A. FErreira
 
-E-mail: p.a.ferreira@cs.bham.ac.uk
-
-If using this repository in your own research, please e-mail me to cite my work (https://arxiv.org/abs/1710.04970).
+E-mail: pauloabelha@gmail.com
 
 This repository is part of my PhD. It contains the code and files for batch segmentation of point clouds.
 
