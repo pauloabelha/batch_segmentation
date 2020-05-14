@@ -18,7 +18,7 @@ By Paulo A. FErreira
 
 E-mail: p.a.ferreira@cs.bham.ac.uk
 
-If using this repository in your own research, please e-mail me to cite my work (the paper to cite is yet to be published).
+If using this repository in your own research, please e-mail me to cite my work (https://arxiv.org/abs/1710.04970).
 
 This repository is part of my PhD. It contains the code and files for batch segmentation of point clouds.
 
